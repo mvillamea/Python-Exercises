@@ -1,3 +1,5 @@
+#Simula la tirada de un dado
+
 import random
 [a, b] = random.choices([1, 2, 3, 4, 5, 6], k=2)
 print ([a,b])

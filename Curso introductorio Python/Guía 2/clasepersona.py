@@ -56,7 +56,7 @@ mirna = Persona("Mirna", 22, 38765999)
 hola = Cuenta(mirna, 400)
 holajoven = CuentaJoven(mirna, 400, "5%")
 
-holajoven.retirar()
+holajoven.mostrar()
 
 
 
