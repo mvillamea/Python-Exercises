@@ -10,5 +10,5 @@ The tasks and solutions are in spanish.
 It has some of the exercises I've solved using Numpy.
 The tasks and solutions are in spanish.
 
-## Other exercises
+### Other exercises
 It has some exercises I've solved using Python in different courses.
