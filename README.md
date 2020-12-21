@@ -1,6 +1,6 @@
 # Python-Exercises :snake:
 <br/>
-### frost
+
 
 ### Curso introductorio Python
 It has some exercises I've solved during an introductory course of Python.
